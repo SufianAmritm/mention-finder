@@ -1,0 +1,23 @@
+{
+	"discourse": [
+		{
+			"name": "shopify-community",
+			"baseUrl": "https://community.shopify.com",
+			"categories": [
+				{ "slug": "seo", "id": 288 },
+				{ "slug": "shopify-discussion", "id": 95 },
+				{ "slug": "shopify-apps", "id": 186 }
+			]
+		}
+	],
+	"bbpress": [
+		{
+			"name": "wordpress-support",
+			"feedUrls": [
+				"https://wordpress.org/support/forum/how-to-and-troubleshooting/feed/",
+				"https://wordpress.org/support/forum/plugins-and-hacks/feed/",
+				"https://wordpress.org/support/forum/themes-and-templates/feed/"
+			]
+		}
+	]
+}
